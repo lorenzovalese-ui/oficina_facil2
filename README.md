@@ -1,1 +1,3 @@
-# oficina_facil2
+Oficina Fácil
+
+O projeto consiste no desenvolvimento de um sistema para oficinas mecânicas, com o objetivo de facilitar o agendamento e a organização dos serviços automotivos. O sistema será destinado a mecânicas e centros automotivos, permitindo que os clientes informem o problema do veículo ou o serviço desejado, como lavagem, troca de peças, revisão ou conserto. A plataforma ajudará no controle de horários, disponibilidade de vagas, previsão de tempo do serviço e organização das peças necessárias, evitando atrasos e acúmulo de carros na oficina. A ideia surgiu a partir de situações do dia a dia, como a dificuldade de encontrar horários disponíveis e a demora para realizar serviços no carro, tornando o processo mais prático tanto para os clientes quanto para a mecânica. 
