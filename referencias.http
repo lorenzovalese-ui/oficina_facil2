@@ -1,0 +1,19 @@
+### Listar todos os clientes
+GET http://localhost:3000/api/clientes
+
+###
+
+### Buscar cliente por ID
+GET http://localhost:3000/api/clientes/1
+
+###
+
+### Cadastrar cliente
+POST http://localhost:3000/api/clientes
+Content-Type: application/json
+
+{
+    "nome": "Lorenzo",
+    "email": "lorenzo@gmail.com",
+    "telefone": "48999999999"
+}
