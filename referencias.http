@@ -13,7 +13,20 @@ POST http://localhost:3000/api/clientes
 Content-Type: application/json
 
 {
-    "nome": "Lorenzo",
+    "nome": "ls",
+    "email": "losoco@gmail.com",
+    "telefone": "489974998"
+}
+
+###
+DELETE http://localhost:3000/api/clientes/4
+
+###
+PUT http://localhost:3000/api/clientes/1
+Content-Type: application/json
+
+{
+    "nome": "Lorenzo Atualizado",
     "email": "lorenzo@gmail.com",
-    "telefone": "48999999999"
+    "telefone": "48988888888"
 }
